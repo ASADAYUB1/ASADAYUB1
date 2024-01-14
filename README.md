@@ -8,7 +8,6 @@
 <h5>Reach me on:
 
 
-- My profile in <a href="https://www.linkedin.com/in/asad-ayub-327a81298/">LinkedIn</a> 💼 
-- My website <a href="</a> 📹 ✍🏾
+- My profile in <a href="https://www.linkedin.com/in/asad-ayub-902909156/">LinkedIn</a> 💼 
 - My technical blogs in <a href="https://medium.com/@asadayub2211">Medium</a> 🏓
 - My contribution in Data Science in <a href="https://www.kaggle.com/asadayub2211">Kaggle</a>🖥💻
